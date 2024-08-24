@@ -9,12 +9,8 @@ _Please follow these instructions carefully, there are several ways to confuse y
 
 ### 1. Use the green `Template` button above to create your own github repository. 
 
-Click the green button, then click the blue "Create a new repository" button.
 
-You will be using this template to create a _new_ repository in your github.com remote workspace.
-
-
-![Image description](/images/a0this.png)
+![Image description][images/bobby&rose Small.jpeg]
 
 ### 2. Name it `Assignment0` when you create your own github repository from this template
 
@@ -93,3 +89,6 @@ For example
 
 You can d0 this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter. Allow for about 20-30 seconds to delete a repository from github, once you learn it.
 
+
+
+[images/bobby&rose Small.jpeg]: /images/a0this.png
