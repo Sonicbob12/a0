@@ -1,6 +1,5 @@
 # Bobby Lloyd
 
-![Image description] (images/bobby&rose Small.jpeg)
 
 This is a template and instructions for creating your own Assignment0.
 
@@ -22,7 +21,7 @@ You will be using this template to create a _new_ repository in your github.com 
 If your github handle was `petecarapetyan` and you had a dark theme this is what your Assignment0 should look like now. Please notice that green `Code` button at bottom right.
 
 
-![Image description](/images/new.jpg)
+![Image description](images/bobby&rose Small.jpeg)
 
 - Now click that green code button and clone it with the `Open with Github Desktop`
 
@@ -77,7 +76,7 @@ Hopefully your smile will look every bit as dorky as mine.
 
 ![Image description](/images/wpic.jpg)
 
-File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Pete.jpg` as the file path feel free to consult bard or chatgpt or any other AI.
+File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `images/bobby&rose Small.jpeg` as the file path feel free to consult bard or chatgpt or any other AI.
 
 ## Should I repeat Assignment0?
 
