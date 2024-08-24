@@ -10,7 +10,7 @@ _Please follow these instructions carefully, there are several ways to confuse y
 ### 1. Use the green `Template` button above to create your own github repository. 
 
 
-![Image description][images/bobby&rose Small.jpeg]
+![Image description][/images/bobby&rose Small.jpeg]
 
 ### 2. Name it `Assignment0` when you create your own github repository from this template
 
