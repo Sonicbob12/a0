@@ -1,5 +1,6 @@
 # Bobby Lloyd
 
+![Image description] (images/bobby&rose Small.jpeg)
 
 This is a template and instructions for creating your own Assignment0.
 
